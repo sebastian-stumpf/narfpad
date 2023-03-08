@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/external/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "kleeb-mcu")(type "KiCad")(uri "${KIPRJMOD}/external/kleeb/mcu.pretty")(options "")(descr ""))
+  (lib (name "kleeb-pg1350")(type "KiCad")(uri "${KIPRJMOD}/external/kleeb/pg1350.pretty")(options "")(descr ""))
+)

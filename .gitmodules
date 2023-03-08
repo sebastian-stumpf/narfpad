@@ -1,0 +1,6 @@
+[submodule "pcb/external/kleeb"]
+	path = pcb/external/kleeb
+	url = https://github.com/crides/kleeb
+[submodule "pcb/external/Keebio-Parts.pretty"]
+	path = pcb/external/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
